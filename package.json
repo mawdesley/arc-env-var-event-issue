@@ -1,0 +1,16 @@
+{
+  "name": "arc-env-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.spec.js",
+  "scripts": {
+    "test": "CI=true jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@architect/architect": "^6.5.3",
+    "axios": "^0.19.2",
+    "jest": "^26.1.0"
+  }
+}
